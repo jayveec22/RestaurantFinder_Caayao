@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_RestaurantFinder_Caayao_RestaurantFinder_CaayaoUITests : NSObject
+@end
+@implementation PodsDummy_Pods_RestaurantFinder_Caayao_RestaurantFinder_CaayaoUITests
+@end

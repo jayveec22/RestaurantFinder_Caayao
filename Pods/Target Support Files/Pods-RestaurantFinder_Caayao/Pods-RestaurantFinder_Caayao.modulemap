@@ -1,0 +1,6 @@
+framework module Pods_RestaurantFinder_Caayao {
+  umbrella header "Pods-RestaurantFinder_Caayao-umbrella.h"
+
+  export *
+  module * { export * }
+}

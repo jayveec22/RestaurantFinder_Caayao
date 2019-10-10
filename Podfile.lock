@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (4.9.0)
+  - Kio (2.2.2)
+  - Pilgrim (2.2.1)
+  - SnapKit (4.0.1)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - Kio
+  - Pilgrim (~> 2.2.1)
+  - SnapKit (~> 4.0.0)
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kio
+    - Pilgrim
+    - SnapKit
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: afc3e7c6db61476cb45cdd23fed06bad03bbc321
+  Kio: 320b6cb88a8c9175bb72880e8a85bea66027a0a8
+  Pilgrim: 2405ca56c45cf185f45d80663aa9edeeaeaa780e
+  SnapKit: 0de968a9fec17499afa29683b05d0c775b6d1c29
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: b83ccdf66a807d01e4639853da7900961f885ff8
+
+COCOAPODS: 1.8.1
